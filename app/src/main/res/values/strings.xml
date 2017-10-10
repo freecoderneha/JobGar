@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">JobGar</string>
+    <string name="category_me">Me</string>
+    <string name="category_job">Job</string>
+    <string name="category_company">Company</string>
+    <string name="category_feed">Feed</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="user">Neha</string>
+    <string name="position">Senior Developer</string>
+    <string name="two">256</string>
+    <string name="connect">Connections</string>
+    <string name="following">Following</string>
+    <string name="notice">On Notice Period</string>
+    <string name="text">Showcase your communication skills.Express with your body language and
+        impress with your attitude.Give your best impression by linking your best video resume.</string>
+</resources>
